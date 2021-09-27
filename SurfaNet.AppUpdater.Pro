@@ -1,4 +1,4 @@
-{"Url":"https://cdn-132.anonfiles.com/B9t2e3K7ub/0d3d8efe-1632738730/SURFANET%201.1.apk","Version":"1.1","Note":"New Application Update Available
+{"Url":"https://anonfiles.com/B9t2e3K7ub/SURFANET_1.1_apk","Version":"1.1","Note":"New Application Update Available
 Version 1.1
 New SurfaNet Update Available
 *Bug Fix
