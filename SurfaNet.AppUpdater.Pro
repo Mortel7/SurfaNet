@@ -1,4 +1,4 @@
-{"Url":"https://anonfiles.com/B9t2e3K7ub/SURFANET_1.1_apk","Version":"1.1","Note":"New Application Update Available
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%201.1.apk?raw=true","Version":"1.1","Note":"New Application Update Available
 Version 1.1
 New SurfaNet Update Available
 *Bug Fix
