@@ -1,5 +1,5 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%201.1.apk?raw=true","Version":"1.1","Note":"New Application Update Available
-Version 1.1
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%203.0.apk?raw=true","Version":"3.0","Note":"New Application Update Available
+Version 3.0
 New SurfaNet Update Available
 *Bug Fix
 *GAMING SERVERS AVAILABLE 🔰
