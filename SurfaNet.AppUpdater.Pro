@@ -1,12 +1,12 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%203.0.apk?raw=true","Version":"3.0","Note":"New Application Update Available
-Version 3.0
+{"Url":"https://rotf.lol/RezDevz","Version":"3.1","Note":"New Application Update Available
+Version 3.1
 New SurfaNet Update Available
 *Bug Fix
-*GAMING SERVERS AVAILABLE 🔰
-*GTM NO DEDUCT IS AVAILABLE 🔰
 *improved Servers🔰
 *improved Payload🔰
-*improved free time gift🔰
+•Added Multi Data Compression 
+(low data Consumption)
+•Added Force Connection To Stable
 *EASY TO USE 💯
 
 *Note* 
