@@ -1,4 +1,4 @@
-{"Url":"https://dropmb.com/vqZ5n","Version":"3.2","Note":"New Application Update Available
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANETv32.apk?raw=true","Version":"3.2","Note":"New Application Update Available
 Version 3.2
 🔰what's New🔰
 * No Adtime / timer
