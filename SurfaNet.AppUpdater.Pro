@@ -1,5 +1,5 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANETv32.apk?raw=true","Version":"3.2","Note":"New Application Update Available
-Version 3.2
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%203.3.apk?raw=true","Version":"3.3","Note":"New Application Update Available
+Version 3.
 🔰what's New🔰
 * No Adtime / timer
 *No Hasel Ads(Premium App)
@@ -10,7 +10,5 @@ Version 3.2
 *EASY TO USE 💯 
 *Note* 
 ❗❗UPDATE YOUR APP❗❗
-Your Coins & Time
-Will automatically Resume
  This App is Free. Not 4Sale💢
- App developer ==>> R3NZ FREENET PH","force":true}
+ App developer( App Creator) ==>> R3NZ FREENET PH","force":true}
