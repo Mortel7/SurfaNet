@@ -1,5 +1,5 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%203.3.apk?raw=true","Version":"3.3","Note":"New Application Update Available
-Version 3.
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANETlatest.apk?raw=true","Version":"3.3","Note":"New Application Update Available
+Version 3.3
 🔰what's New🔰
 * No Adtime / timer
 *No Hasel Ads(Premium App)
