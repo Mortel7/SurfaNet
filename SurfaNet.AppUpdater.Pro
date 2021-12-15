@@ -1,4 +1,4 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%203.5.apk?raw=true","Version":"3.5","Note":"New Application Update Available
+{"Url":"tiny.one/surfanetApp","Version":"3.6","Note":"New Application Update Available
 Version 3.5
 🔰what's New🔰
 * No Adtime / timer
