@@ -1,5 +1,5 @@
-{"Url":"https://tiny.one/surfanetApp","Version":"3.6","Note":"New Application Update Available
-Version 3.6
+{"Url":"https://tiny.one/surfanetV01","Version":"3.7","Note":"New Application Update Available
+Version 3.7
 🔰what's New🔰
 * No Adtime / timer
 *No  Ads(Premium App)
