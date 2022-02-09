@@ -1,10 +1,9 @@
-{"Url":"https://rotf.lol/surfanet38","Version":"3.8","Note":"New Application Update Available
-SurfaNet Version 3.8
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%203.9.apk?raw=true","Version":"3.9","Note":"New Application Update Available
+SurfaNet Version 3.9
 🔰what's New🔰
 *Bug Fixed
 *No Load Servers Added♻️
-•Added Multi Data Compression 
--(low data Consumption)
+•Auto No Browsing fixed
 •Added Force Connection To Stable♻
 ️*EASY TO USE 💯
  *Note* 
