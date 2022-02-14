@@ -1,4 +1,4 @@
-{"Url":"https://rotf.lol/surfanet40","Version":"4.1","Note":"New Application Update Available
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%204.1.apk?raw=true","Version":"4.1","Note":"New Application Update Available
 SurfaNet Version 4.1
 🔰what's New🔰
 *SurfaNet Service improved
