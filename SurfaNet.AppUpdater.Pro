@@ -1,7 +1,7 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%204.3.apk?raw=true","Version":"4.3","Note":"New Application Update Available
-SurfaNet Version 4.3
+{"Url":"https://rotf.lol/surfanet44","Version":"4.4","Note":"New Application Update Available
+SurfaNet Version 4.4
 🔰what's New🔰
-*SurfaNet Service improved
+*SurfaNet Service improved💯
 *Fixxed Not Connected💯
 *IP HUNT (GTM NOLOAD)
 how to use ip hunt
@@ -12,8 +12,4 @@ how to use ip hunt
 *Use a Dummy Sim Card!!
 *Stay tuned ☺️
 *Im doing my best to give you a best vpn
- 📢shout out📢
-Mortel family👩‍👩‍👦‍👦
-Corpiz famiy👩‍👩‍👦‍👦
-ShareHub ily
-PM me on our page for shout outs☺️","force":false}
+@R3NZ FREENET PH 💜","force":false}
