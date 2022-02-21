@@ -1,7 +1,8 @@
-{"Url":"https://rotf.lol/surfanet44","Version":"4.4","Note":"New Application Update Available
-SurfaNet Version 4.4
+{"Url":"https://rotf.lol/surfanet45","Version":"4.5","Note":"New Application Update Available
+SurfaNet Version 4.5
 🔰what's New🔰
 *SurfaNet Service improved💯
+*Rounded Corners dialog
 *Fixxed Not Connected💯
 *IP HUNT (GTM NOLOAD)
 how to use ip hunt
