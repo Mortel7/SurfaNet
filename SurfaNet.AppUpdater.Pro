@@ -1,6 +1,8 @@
-{"Url":"https://rotf.lol/surfanet45","Version":"4.5","Note":"New Application Update Available
-SurfaNet Version 4.5
+{"Url":"https://rotf.lol/surfanetv46","Version":"4.6","Note":"New Application Update Available
+SurfaNet Version 4.6
 🔰what's New🔰
+Reduce app size 4mb to 3 mb
+Added Notification info
 *SurfaNet Service improved💯
 *Rounded Corners dialog
 *Fixxed Not Connected💯
