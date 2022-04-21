@@ -1,4 +1,4 @@
-{"Url":"https://rotf.lol/surfanetv46","Version":"4.6","Note":"New Application Update Available
+{"Url":"https://rotf.lol/surfanetv46","Version":"1.0","Note":"New Application Update Available
 SurfaNet Version 4.6
 🔰what's New🔰
 Reduce app size 4mb to 3 mb
