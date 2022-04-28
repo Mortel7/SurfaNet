@@ -1,4 +1,4 @@
-{"Url":"github.com/Mortel7/SurfaNet/blob/main/SURFANET%201.3.apk?raw=true","Version":"1.1","Note":"New Application Update Available
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%201.3.apk?raw=true","Version":"1.1","Note":"New Application Update Available
 SurfaNet Version 1.0
 🔰what's New🔰
 Reduce app size 4mb to 3 mb
