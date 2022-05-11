@@ -1,10 +1,9 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SURFANET%201.3.apk?raw=true","Version":"1.1","Note":"New Application Update Available
-SurfaNet Version 1.0
+{"Url":"https://rotf.lol/surfanet1","Version":"1.1","Note":"New Application Update Available
+SurfaNet Version 1.1
 🔰what's New🔰
-Reduce app size 4mb to 3 mb
+Reduce app size 5mb to 3 mb
 Added Notification info
 *SurfaNet Service improved💯
-*Rounded Corners dialog
 *Fixxed Not Connected💯
 *IP HUNT (GTM NOLOAD)
 how to use ip hunt
