@@ -1,8 +1,8 @@
-{"Url":"https://rotf.lol/surfanet1","Version":"1.1","Note":"New Application Update Available
-SurfaNet Version 1.1
+{"Url":"https://rotf.lol/SurfNet12","Version":"1.2","Note":"New Application Update Available
+SurfaNet Version 1.2
 🔰what's New🔰
 Reduce app size 5mb to 3 mb
-Added Notification info
+*Hotspot Config Share ♣️
 *SurfaNet Service improved💯
 *Fixxed Not Connected💯
 *IP HUNT (GTM NOLOAD)
