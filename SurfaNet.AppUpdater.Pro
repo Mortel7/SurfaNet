@@ -1,4 +1,4 @@
-{"Url":"https://rotf.lol/SurfNet12","Version":"1.2","Note":"New Application Update Available
+{"Url":"https://rotf.lol/surfanet012","Version":"1.2","Note":"New Application Update Available
 SurfaNet Version 1.2
 🔰what's New🔰
 Reduce app size 5mb to 3 mb
