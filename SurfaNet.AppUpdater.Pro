@@ -1,7 +1,8 @@
-{"Url":"https://rotf.lol/surfanet012","Version":"1.2","Note":"New Application Update Available
-SurfaNet Version 1.2
+{"Url":"https://rotf.lol/surfanet13","Version":"1.3","Note":"New Application Update Available
+SurfaNet Version 1.3
 🔰what's New🔰
-Reduce app size 5mb to 3 mb
+*Convert Coins to Mobile Load
+*Reduce app size 5mb to 3 mb
 *Hotspot Config Share ♣️
 *SurfaNet Service improved💯
 *Fixxed Not Connected💯
