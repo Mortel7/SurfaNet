@@ -1,8 +1,10 @@
-{"Url":"https://rotf.lol/surfanet13","Version":"1.3","Note":"New Application Update Available
-SurfaNet Version 1.3
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_1*4.apk?raw=true","Version":"1.4","Note":"New Application Update Available
+SurfaNet Version 1.4
 🔰what's New🔰
-*Convert Coins to Mobile Load
-*Reduce app size 5mb to 3 mb
+*Pls install the latest Version
+&
+Uninstall the old one Version 1.0 to 1.3
+*fix Addtime
 *Hotspot Config Share ♣️
 *SurfaNet Service improved💯
 *Fixxed Not Connected💯
