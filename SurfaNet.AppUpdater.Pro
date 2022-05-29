@@ -1,14 +1,15 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_1*4.apk?raw=true","Version":"1.4","Note":"New Application Update Available
-SurfaNet Version 1.4
+{"Url":"https://tiny.one/SurfaNetv5","Version":"1.5","Note":"New Application Update Available
+SurfaNet Version 1.5
 🔰what's New🔰
 *Pls install the latest Version
 &
-Uninstall the old one Version 1.0 to 1.3
-*fix Addtime
+Uninstall the old one Version 1.0 to 1.4
+*Added SlowDNS Service
+(for STS NoLoad,Pisowifi NoHulog)
+*Added ClaimCode Manager
 *Hotspot Config Share ♣️
-*SurfaNet Service improved💯
+*Tunnel Service improved💯
 *Fixxed Not Connected💯
-*IP HUNT (GTM NOLOAD)
 how to use ip hunt
 (click the inner logo of surfanet)
 ️*EASY TO USE 💯
@@ -17,4 +18,4 @@ how to use ip hunt
 *Use a Dummy Sim Card!!
 *Stay tuned ☺️
 *Im doing my best to give you a best vpn
-@R3NZ FREENET PH 💜","force":false}
+@R3NZ FREENET PH 💜","force":true}
