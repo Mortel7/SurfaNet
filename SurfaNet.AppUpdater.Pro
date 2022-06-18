@@ -1,9 +1,9 @@
-{"Url":"https://tiny.one/SurfaNetv5","Version":"1.5","Note":"New Application Update Available
-SurfaNet Version 1.5
+{"Url":"https://rotf.lol/surfanet16","Version":"1.6","Note":"New Application Update Available
+SurfaNet Version 1.6
 🔰what's New🔰
 *Pls install the latest Version
 &
-Uninstall the old one Version 1.0 to 1.4
+Uninstall the old one Version 1.0 to 1.5
 *Added SlowDNS Service
 (for STS NoLoad,Pisowifi NoHulog)
 *Added ClaimCode Manager
