@@ -1,16 +1,13 @@
-{"Url":"https://rotf.lol/surfanet16","Version":"1.6","Note":"New Application Update Available
-SurfaNet Version 1.6
+{"Url":"https://rotf.lol/SurfaNet17","Version":"1.7","Note":"New Application Update Available
+SurfaNet Version 1.7
 🔰what's New🔰
-*Pls install the latest Version
-&
-Uninstall the old one Version 1.0 to 1.5
-*Added SlowDNS Service
-(for STS NoLoad,Pisowifi NoHulog)
+Fixed Small Bugs 95%
+*Pls install the latest Version Directly 
 *Added ClaimCode Manager
 *Hotspot Config Share ♣️
-*Tunnel Service improved💯
+*VPN Service improved By 90%
 *Fixxed Not Connected💯
-how to use ip hunt
+👇how to use ip hunt👇
 (click the inner logo of surfanet)
 ️*EASY TO USE 💯
  *Note* 
@@ -18,4 +15,4 @@ how to use ip hunt
 *Use a Dummy Sim Card!!
 *Stay tuned ☺️
 *Im doing my best to give you a best vpn
-@R3NZ FREENET PH 💜","force":true}
+@R3NZ FREENET PH 💜","force":false}
