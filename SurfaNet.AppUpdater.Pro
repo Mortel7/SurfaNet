@@ -1,18 +1,14 @@
-{"Url":"https://rotf.lol/SurfaNet17","Version":"1.7","Note":"New Application Update Available
-SurfaNet Version 1.7
+{"Url":"https://rotf.lol/SurfaNet18","Version":"1.8","Note":"New Application Update Available
+SurfaNet Version 1.8
 🔰what's New🔰
-Fixed Small Bugs 95%
+*Watch Latest Movies 5k+
+*Play Games ReOffline 1k+
+*Fixed Small Bugs 95%
+*Fix Addtime
 *Pls install the latest Version Directly 
-*Added ClaimCode Manager
-*Hotspot Config Share ♣️
 *VPN Service improved By 90%
 *Fixxed Not Connected💯
-👇how to use ip hunt👇
-(click the inner logo of surfanet)
-️*EASY TO USE 💯
- *Note* 
-*UPDATE YOUR APP
 *Use a Dummy Sim Card!!
 *Stay tuned ☺️
 *Im doing my best to give you a best vpn
-@R3NZ FREENET PH 💜","force":false}
+@R3NZ FREENET PH 💜","force":true}
