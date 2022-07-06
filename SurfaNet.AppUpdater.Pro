@@ -1,13 +1,14 @@
-{"Url":"https://rotf.lol/SurfaNet18","Version":"1.8","Note":"New Application Update Available
-SurfaNet Version 1.8
+{"Url":"https://rotf.lol/surfanet19","Version":"1.9","Note":"New Application Update Available
+SurfaNet Version 1.9
 🔰what's New🔰
+*Fix Addtime ✅
+*Improved Tunnel(98% Fast)
 *Watch Latest Movies 5k+
 *Play Games ReOffline 1k+
 *Fixed Small Bugs 95%
-*Fix Addtime
 *Pls install the latest Version Directly 
 *VPN Service improved By 90%
-*Fixxed Not Connected💯
+*Uninstall Version 1.8 down
 *Use a Dummy Sim Card!!
 *Stay tuned ☺️
 *Im doing my best to give you a best vpn
