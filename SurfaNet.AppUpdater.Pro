@@ -1,4 +1,4 @@
-{"Url":"https://rotf.lol/surfanet20","Version":"2.0","Note":"New Application Update Available
+{"Url":"https://rotf.lol/surfanet2a0","Version":"2.0","Note":"New Application Update Available
 SurfaNet Version 2.0
 🔰what's New🔰
 *No more Addtime ✅
