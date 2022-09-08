@@ -1,6 +1,7 @@
-{"Url":"https://rotf.lol/surfanet2-1","Version":"2.1","Note":"New Application Update Available
-SurfaNet Version 2.1
+{"Url":"https://rotf.lol/surfanet2-2","Version":"2.2","Note":"New Application Update Available
+SurfaNet Version 2.2
 🔰what's New🔰
+*fix intro stock up
 *No more Addtime ✅
 *No Ads✅
 *fix Update Error
