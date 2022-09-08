@@ -1,4 +1,4 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.1.apk?raw=true","Version":"2.1","Note":"New Application Update Available
+{"Url":"https://rotf.lol/surfanet2-1","Version":"2.1","Note":"New Application Update Available
 SurfaNet Version 2.1
 🔰what's New🔰
 *No more Addtime ✅
