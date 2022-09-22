@@ -1,9 +1,8 @@
-{"Url":"https://rotf.lol/surfanet2-2","Version":"2.2","Note":"New Application Update Available
-SurfaNet Version 2.2
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.3.apk?raw=true","Version":"2.3","Note":"New Application Update Available
+SurfaNet Version 2.3
 🔰what's New🔰
 *fix intro stock up
-*No more Addtime ✅
-*No Ads✅
+*NEW Addtime ✅
 *fix Update Error
 *Improved Tunnel(98% Fast)
 *Watch Latest Movies 5k+
