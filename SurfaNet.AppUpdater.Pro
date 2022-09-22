@@ -9,6 +9,8 @@ SurfaNet Version 2.3
 *Play Games ReOffline 1k+
 *Fixed Small Bugs 95%
 *Pls install the latest Version Directly 
+if there is an error pls donwload the app
+here > https://dropmb.com/vebnZ
 *VPN Service improved By 90%
 *Uninstall Version 1.9 down
 *Use a Dummy Sim Card!!
