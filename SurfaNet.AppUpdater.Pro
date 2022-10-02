@@ -1,6 +1,7 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.4.apk?raw=true","Version":"2.4","Note":"New Application Update Available
-SurfaNet Version 2.4
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.5.apk?raw=true","Version":"2.5","Note":"New Application Update Available
+SurfaNet Version 2.5
 🔰what's New🔰
+*Addtime error fixxed
 *Removed Coin Manager
 *NEW Addtime ✅
 *fix Update Error
@@ -8,11 +9,8 @@ SurfaNet Version 2.4
 *Watch Latest Movies 5k+
 *Play Games ReOffline 1k+
 *Fixed Small Bugs 95%
-*Pls install the latest Version Directly 
-if there is an error pls donwload the app
-here > https://dropmb.com/vebnZ
-*VPN Service improved By 90%
-*Uninstall Version 1.9 down
+*VPN Service improved By 91%
+*Uninstall Version 2.4 down
 *Use a Dummy Sim Card!!
 *Stay tuned ☺️
 *Im doing my best to give you a best vpn
