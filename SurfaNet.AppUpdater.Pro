@@ -1,7 +1,8 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.5.apk?raw=true","Version":"2.5","Note":"New Application Update Available
-SurfaNet Version 2.5
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.6.apk?raw=true","Version":"2.6","Note":"New Application Update Available
+SurfaNet Version 2.6
 🔰what's New🔰
 *Addtime error fixxed
+*3 Hours AddTime in Total
 *Removed Coin Manager
 *NEW Addtime ✅
 *fix Update Error
