@@ -1,6 +1,7 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.7.apk?raw=true","Version":"2.7","Note":"New Application Update Available
-SurfaNet Version 2.7
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.8.apk?raw=true","Version":"2.8","Note":"New Application Update Available
+SurfaNet Version 2.8
 🔰what's New🔰
+*improve STS＆GTM No load Tunnel
 *Addtime error fixxed
 *5 Hours AddTime in Total
 *fix custom login dialog
