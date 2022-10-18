@@ -1,11 +1,15 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.8.apk?raw=true","Version":"2.8","Note":"New Application Update Available
-SurfaNet Version 2.8
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.9.apk?raw=true","Version":"2.9","Note":"New Application Update Available
+SurfaNet Version 2.9
 🔰what's New🔰
-*improve STS＆GTM No load Tunnel
+*Lucky 9 Draw
+*New Coin Manager 
+*Buy Coin & Sell Time to coins
+*Lucky 9 (5 Coins to Draw)
+*Luck 9 Reward 240 Hours
+*Lucky Chance Of Winning Percentage
 *Addtime error fixxed
-*5 Hours AddTime in Total
+*1.30m Hour and 1 Coin
 *fix custom login dialog
-*Removed Coin Manager
 *NEW Addtime ✅
 *fix Update Error
 *Improved Tunnel(98% Fast)
@@ -16,5 +20,11 @@ SurfaNet Version 2.8
 *Uninstall Version 2.4 down
 *Use a Dummy Sim Card!!
 *Stay tuned ☺️
+
+Soon Pag Nagka Pera na ako Sa App
+Na ito gagwain kung 50Pesos Yung Winning Price at i babalik ko yung 
+Coins To Load..
+Kaya Pls Keep Supporting US😄
+
 *Im doing my best to give you a best vpn
 @R3NZ FREENET PH 💜","force":true}
