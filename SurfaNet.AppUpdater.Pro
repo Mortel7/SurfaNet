@@ -15,16 +15,9 @@ SurfaNet Version 2.9
 *Improved Tunnel(98% Fast)
 *Watch Latest Movies 5k+
 *Play Games ReOffline 1k+
-*Fixed Small Bugs 95%
+*Fixed Bugs 95%
 *VPN Service improved By 91%
-*Uninstall Version 2.4 down
-*Use a Dummy Sim Card!!
+*Uninstall Version 2.7 down
 *Stay tuned ☺️
-
-Soon Pag Nagka Pera na ako Sa App
-Na ito gagwain kung 50Pesos Yung Winning Price at i babalik ko yung 
-Coins To Load..
-Kaya Pls Keep Supporting US😄
-
 *Im doing my best to give you a best vpn
 @R3NZ FREENET PH 💜","force":true}
