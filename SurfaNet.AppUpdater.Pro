@@ -1,8 +1,10 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_2.9.apk?raw=true","Version":"2.9","Note":"New Application Update Available
-SurfaNet Version 2.9
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_3.0.apk?raw=true","Version":"3.0","Note":"New Application Update Available
+SurfaNet Version 3.0
 🔰what's New🔰
-*Lucky 9 Draw
-*New Coin Manager 
+*Lucky 9 Layout
+*smooth app
+*fix app laggy
+*New Coin Manager improved
 *Buy Coin & Sell Time to coins
 *Lucky 9 (5 Coins to Draw)
 *Luck 9 Reward 240 Hours
@@ -16,7 +18,7 @@ SurfaNet Version 2.9
 *Watch Latest Movies 5k+
 *Play Games ReOffline 1k+
 *Fixed Bugs 95%
-*VPN Service improved By 91%
+*VPN Service improved By 92%
 *Uninstall Version 2.7 down
 *Stay tuned ☺️
 *Im doing my best to give you a best vpn
