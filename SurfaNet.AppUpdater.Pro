@@ -1,16 +1,15 @@
-{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_3.0.apk?raw=true","Version":"3.0","Note":"New Application Update Available
-SurfaNet Version 3.0
+{"Url":"https://github.com/Mortel7/SurfaNet/blob/main/SurfaNet_3.1.apk?raw=true","Version":"3.1","Note":"New Application Update Available
+SurfaNet Version 3.1
 🔰what's New🔰
-*Lucky 9 Layout
+*fix App Crashes
+*Lucky 9 win even low percentage
+*1.30 hours and 2 Coins ADDTIME
 *smooth app
-*fix app laggy
 *New Coin Manager improved
-*Buy Coin & Sell Time to coins
 *Lucky 9 (5 Coins to Draw)
 *Luck 9 Reward 240 Hours
 *Lucky Chance Of Winning Percentage
 *Addtime error fixxed
-*1.30m Hour and 1 Coin
 *fix custom login dialog
 *NEW Addtime ✅
 *fix Update Error
